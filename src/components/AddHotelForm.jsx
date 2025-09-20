@@ -75,7 +75,7 @@ const AddHotelForm = () => {
             Select any option
           </option>
           <option value="Budget">Budget</option>
-          <option value="Mid-Rang">Mid-Rang</option>
+          <option value="Mid-Range">Mid-Range</option>
           <option value="Luxury">Luxury</option>
           <option value="Boutique">Boutique</option>
           <option value="Resort">Resort</option>
